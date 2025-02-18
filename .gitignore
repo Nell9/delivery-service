@@ -1,0 +1,7 @@
+# virtual envelopment
+venv
+*.venv
+
+# temp
+.*
+!.gitignore
