@@ -1,3 +1,4 @@
+# id: 133625878
 import sys
 
 MAX_ROBOTS_ON_PLATFORM = 2
