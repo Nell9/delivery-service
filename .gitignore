@@ -4,4 +4,7 @@ venv
 
 # temp
 .*
+
+#git
 !.gitignore
+
